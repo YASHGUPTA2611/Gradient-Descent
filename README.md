@@ -1,4 +1,5 @@
 # Gradient-Descent
 
-' Gradient Descent.ipynb ' is a jupyter file. In this file we will use python programming language to get the best values of m and c, so that our cost function has minimum values. 
+In this repository, I have implemented Gradient Descent optimizer from scratch using python programming language.
 
+pre-requisite - Numpy, Basic knowledge of Algebra
